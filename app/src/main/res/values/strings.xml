@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenServer</string>
+    <string name="timeout">超时</string>
+    <string name="server_close">服务端关闭</string>
+    <string name="client_close">与客户端断开连接</string>
+    <string name="register_socket_server_failed">初始化端口服务失败</string>
+</resources>
